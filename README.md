@@ -4,9 +4,15 @@ Dataset from the game FIFA 2019 is preprocessed, analyzed and visualized to give
 # Input
 The Dataset considered is of football players with many attribute columns from FIFA 2019.[Dataset](https://github.com/Harish-Muralidhar/FIFA-19-Dataset-analysis/tree/main/FIFA-19-Dataset-analysis/Input)
 
-# Process summary
+# Process and project summary
 
 [Code](https://github.com/Harish-Muralidhar/FIFA-19-Dataset-analysis/tree/main/FIFA-19-Dataset-analysis/Code) 
+
+The process to execute the code are as follows.
+* Clone or download the project.
+* Install PySpark
+* Copy the input dataset from the link given in input section of readme to the same folder as the code.
+* Run the code 
 
 The Dataset considered is of football players with many attribute columns from FIFA 2019. The Preprocessing involves removing columns which are not needed for analysis, removing unwanted symbols, removing null values and feature scaling.
 Analysis and Visualization includes the data and plots which can help a football manager to take decisions. They are as follows
